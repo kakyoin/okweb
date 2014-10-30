@@ -57,5 +57,7 @@ urlpatterns = patterns('',
     url(r'^i/fixed_navigation_and_header.html$', views.fixed_navigation_and_header),
     url(r'^i/email_templates.html$', views.email_templates),
     url(r'^i/wizard.html$', views.wizard),
+    url(r'^i/base.html$', views.base),
+    url(r'^i/dashboard.html$', views.dashboard),
     (r'^site_media/(?P<path>.*)$','django.views.static.serve',{'document_root':settings.STATIC_ROOT}),
 )
