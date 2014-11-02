@@ -156,6 +156,10 @@ def dashboard(request):
     return render_to_response('dashboard.html', {})
 
 
+def conversion(request):
+    return render_to_response('conversion.html', {})
+
+
 def page_not_found(request):
     return render_to_response('err404.html', {})
 
