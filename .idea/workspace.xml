@@ -73,16 +73,16 @@
       <file leaf-file-name="conversion.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flatty/templates/conversion.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="72" selection-start="2390" selection-end="2390" vertical-scroll-proportion="0.5251256" vertical-offset="904" max-vertical-offset="1638">
+            <state line="54" column="35" selection-start="2444" selection-end="2444" vertical-scroll-proportion="0.63065326" vertical-offset="883" max-vertical-offset="1638">
               <folding>
                 <element signature="e#154#174#0" expanded="true" />
                 <element signature="e#997#1022#0" expanded="true" />
                 <element signature="e#1030#1071#0" expanded="true" />
                 <element signature="e#1672#1697#0" expanded="true" />
                 <element signature="e#1849#1874#0" expanded="true" />
-                <element signature="e#2026#2051#0" expanded="true" />
-                <element signature="e#2203#2228#0" expanded="true" />
-                <element signature="e#2392#2417#0" expanded="true" />
+                <element signature="e#2027#2052#0" expanded="true" />
+                <element signature="e#2205#2230#0" expanded="true" />
+                <element signature="e#2382#2407#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -634,16 +634,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flatty/templates/conversion.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="72" selection-start="2390" selection-end="2390" vertical-scroll-proportion="0.5251256" vertical-offset="904" max-vertical-offset="1638">
+        <state line="54" column="35" selection-start="2444" selection-end="2444" vertical-scroll-proportion="0.63065326" vertical-offset="883" max-vertical-offset="1638">
           <folding>
             <element signature="e#154#174#0" expanded="true" />
             <element signature="e#997#1022#0" expanded="true" />
             <element signature="e#1030#1071#0" expanded="true" />
             <element signature="e#1672#1697#0" expanded="true" />
             <element signature="e#1849#1874#0" expanded="true" />
-            <element signature="e#2026#2051#0" expanded="true" />
-            <element signature="e#2203#2228#0" expanded="true" />
-            <element signature="e#2392#2417#0" expanded="true" />
+            <element signature="e#2027#2052#0" expanded="true" />
+            <element signature="e#2205#2230#0" expanded="true" />
+            <element signature="e#2382#2407#0" expanded="true" />
           </folding>
         </state>
       </provider>
